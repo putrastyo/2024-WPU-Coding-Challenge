@@ -1,3 +1,7 @@
+// > CODEWARS 2024 (1/366)
+// > Challenge Title  : Beginner - Reduce but Grow
+// > Challenge URL    : 
+
 // * Solution 1
 function growWithMap(x){
   let result = 1;
